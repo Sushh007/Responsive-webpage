@@ -9,3 +9,5 @@ The `Recruitment.html` page details student information collected from the recru
 
 Overall, this project showcases a well-designed, functional, and responsive webpage that streamlines the club's recruitment process and engages potential members effectively. 🚀🎉
 ![rjit ss0](https://github.com/user-attachments/assets/61095ec6-a134-4a54-83cc-df6317630a9a)
+![rjit ss1](https://github.com/user-attachments/assets/b1546c54-334e-46b8-9aa2-4d7e02274e89)
+![rjit ss2](https://github.com/user-attachments/assets/6b680a9f-fe21-4580-8993-7db4aeecb3b6)
