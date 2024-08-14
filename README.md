@@ -8,3 +8,4 @@ The `Contact.html` page includes a form for students to reach out with questions
 The `Recruitment.html` page details student information collected from the recruitment form, aiding in the assessment and decision-making process for new recruits. 📝🔍
 
 Overall, this project showcases a well-designed, functional, and responsive webpage that streamlines the club's recruitment process and engages potential members effectively. 🚀🎉
+![rjit ss0](https://github.com/user-attachments/assets/61095ec6-a134-4a54-83cc-df6317630a9a)
